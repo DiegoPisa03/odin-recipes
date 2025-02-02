@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: lightblue;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: lightcyan;
+}
